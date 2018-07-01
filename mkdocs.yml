@@ -1,0 +1,9 @@
+site_name: 抓根写字的地方
+pages:
+    - "Home": index.md
+    - "about": about.md
+
+theme:
+    name: 'material'
+    
+#http://127.0.0.1:8000/
